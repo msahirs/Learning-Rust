@@ -19,3 +19,7 @@ Cargo.lock
 
 #Cargo generates .exe files
 *.exe
+
+# Added by cargo
+
+/target
