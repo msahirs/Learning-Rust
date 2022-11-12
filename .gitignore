@@ -1,2 +1,4 @@
 .vscode
 Learning.code-workspace
+*.exe
+*.pdb
