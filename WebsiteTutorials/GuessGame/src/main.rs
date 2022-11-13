@@ -3,10 +3,11 @@
 use std::io;
 use rand::Rng;
 
+
 fn main() {
     println!("Guess the number!");
 
-    let secret_number = rand::thread_rng
+    let secret_number = rand::thread_rng;
 
     println!("Please input your guess.");
 
