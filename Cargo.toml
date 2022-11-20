@@ -2,6 +2,7 @@
 members = [
     "WebsiteTutorials/GettingStarted/hello_cargo",
     "WebsiteTutorials/GuessGame",
+    "WebsiteTutorials/variables",
 ]
 
 [profile.release]
