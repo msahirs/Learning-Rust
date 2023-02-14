@@ -1,8 +1,10 @@
 [workspace]
 members = [
     "WebsiteTutorials/GettingStarted/hello_cargo",
+    "WebsiteTutorials/GettingStarted/Hello_World",
     "WebsiteTutorials/GuessGame",
     "WebsiteTutorials/variables",
+    "MyProjects/AdventOfCode/Day1",
 ]
 
 [profile.release]
