@@ -5,6 +5,7 @@ members = [
     "WebsiteTutorials/GuessGame",
     "WebsiteTutorials/variables",
     "MyProjects/AdventOfCode/Day1",
+    "MyProjects/coordinate_frames",
 ]
 
 [profile.release]
